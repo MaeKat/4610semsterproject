@@ -7890,7 +7890,7 @@ h1, h2, h3, h4, h5,
       padding: 0; } }
   .teacher-details .text .position {
     display: block;
-    margin-bottom: 30px; }
+    margin-bottom: 10px; }
 
 .course {
   border: 1px solid #f5f7f9;
@@ -8376,7 +8376,7 @@ textarea.form-control {
     .ftco-footer-social li a span {
       position: absolute;
       font-size: 26px;
-      top: 50%;
+      top: 20%;
       left: 50%;
       -webkit-transform: translate(-50%, -50%);
       -ms-transform: translate(-50%, -50%);
