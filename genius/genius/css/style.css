@@ -7478,10 +7478,10 @@ h1, h2, h3, h4, h5,
 
 .hero-wrap {
   width: 100%;
-  height: 750px;
+  height: 600px;
   position: relative; }
   .hero-wrap.hero-wrap-2 {
-    height: 600px; }
+    height: 300px; }
   .hero-wrap .overlay {
     position: absolute;
     top: 0;
@@ -7502,7 +7502,7 @@ h1, h2, h3, h4, h5,
 
 .slider-text {
   color: #fff;
-  height: 600px; }
+  height: 300px; }
   .slider-text h1 {
     font-size: 60px;
     color: #fff;
@@ -8908,6 +8908,7 @@ textarea.form-control {
       background: #167ce9; }
 
 .contact-section .contact-info p a {
+  width: 50%;
   color: #2e394c; }
 
 .block-9 .form-control {
