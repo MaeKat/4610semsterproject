@@ -7482,6 +7482,8 @@ h1, h2, h3, h4, h5,
   position: relative; }
   .hero-wrap.hero-wrap-2 {
     height: 300px; }
+    .hero-wrap.hero-wrap-3 {
+      height: 150px; }
   .hero-wrap .overlay {
     position: absolute;
     top: 0;
@@ -7508,6 +7510,12 @@ h1, h2, h3, h4, h5,
     color: #fff;
     line-height: 1.2;
     font-weight: 400; }
+    .slider-text h2 {
+      height: 200px;
+      font-size: 60px;
+      color: #fff;
+      line-height: 1.2;
+      font-weight: 400; }
     @media (max-width: 991.98px) {
       .slider-text h1 {
         font-size: 40px; } }
