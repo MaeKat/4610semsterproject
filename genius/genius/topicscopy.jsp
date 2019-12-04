@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -144,7 +144,7 @@
     			<div class="col-md-4 d-flex ftco-animate">
     				<div class="course align-self-stretch">
     					<div class="text p-4">
-    						<p class="category"><span>English</span> </p>
+    						<p class="category"><span><% out.println("Hello");%></span> </p>
     						<h3 class="mb-3"><a href="#">English for Tommorow</a></h3>
     						<p><a href="#" class="btn btn-primary">Add intrest</a>
                   <a href="#" class="btn btn-primary">View the Forms</a></p>
